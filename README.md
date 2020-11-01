@@ -1,4 +1,4 @@
-# hyperblogtest
+# Mango solidario
 pagina de prueba para mangos jaja
 
 ##esta es una prueba de git, github y github pages solo eso
